@@ -1,4 +1,3 @@
-printProgress
-=============
+# Print progress
 
-This is a simple MATLAB function that prints the progress of a for cycle.
+This is a simple MATLAB function that prints the progress of a `for` cycle.
